@@ -1,4 +1,11 @@
-📄 Resume Builder Interface Modules
+💻**Live Preview:**
+
+This project is a static web application and can be run using any live server extension (like Live Server in VS Code) 
+
+or by simply opening index.html in your browser.
+
+📄 **Resume Builder Interface Modules**
+
 This is a sample interface design to allow users to build a professional resume by dynamically adding, editing, and reordering various sections. 
 Below is a description of the available modules:
 
